@@ -30,43 +30,43 @@ La plataforma permite centralizar la información de solicitudes, controlar sus 
 
 ## Registro de solicitud
 
-![Registro](IMÁGENES/REGISTRO.png)
+![Registro](IMAGENES/REGISTRO.png)
 
 ---
 
 ## Verificación de registro
 
-![Verificación](IMÁGENES/VERIFICACIÓN%20DE%20REGISTRO.png)
+![Verificación](IMAGENES/VERIFICACIÓN%20DE%20REGISTRO.png)
 
 ---
 
 ## Registro completo
 
-![Registro completo](IMÁGENES/REGISTRO%20LLENO.png)
+![Registro completo](IMAGENES/REGISTRO%20LLENO.png)
 
 ---
 
 ## Tipo de solicitud
 
-![Tipo de solicitud](IMÁGENES/TIPO%20DE%20SOLICITUD.png)
+![Tipo de solicitud](IMAGENES/TIPO%20DE%20SOLICITUD.png)
 
 ---
 
 ## Tablero de control
 
-![Tablero de control](IMÁGENES/TABLERO%20DE%20CONTROL.png)
+![Tablero de control](IMAGENES/DASHBOARD.png)
 
 ---
 
 ## Estado de solicitudes
 
-![Estado](IMÁGENES/ESTADO.png)
+![Estado](IMAGENES/ESTADO.png)
 
 ---
 
 ## Solicitud aprobada o rechazada
 
-![Aprobación o rechazo](IMÁGENES/REGISTRO%20APROBADO%20O%20RECHAZADO.png)
+![Aprobación o rechazo](IMAGENES/REGISTRO%20APROBADO%20O%20RECHAZADO.png)
 
 ---
 
