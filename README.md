@@ -24,7 +24,7 @@ La plataforma permite centralizar la información de solicitudes, controlar sus 
 
 ## Inicio de sesión
 
-![Inicio de sesión](IMÁGENES/LOGIN.png)
+![Inicio de sesión](IMAGENES/LOGIN.png)
 
 ---
 
