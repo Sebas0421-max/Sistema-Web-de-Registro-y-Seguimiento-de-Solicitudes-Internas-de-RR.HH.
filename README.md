@@ -36,7 +36,7 @@ La plataforma permite centralizar la información de solicitudes, controlar sus 
 
 ## Verificación de registro
 
-![Verificación](IMAGENES/VERIFICACIÓN%20DE%20REGISTRO.png)
+![Verificación](IMAGENES/VERIFICACION%20DE%20REGISTRO.png)
 
 ---
 
